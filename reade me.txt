@@ -1,0 +1,8 @@
+user id: kranthi610@gmail.com
+
+password: church123@
+
+
+Open the church-backend folder and Click the login.php file and enter the above mentioned credentials
+
+The database sql file is  also included..import it to the mysql databse.
